@@ -1,104 +1,181 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ko">
 <head>
     <meta charset="UTF-8">
     <title>컴퓨터교육과 김가영</title>
+    <style>
+        article h2{
+            margin-bottom: 10px; color:#222;
+        }
+        section {
+            /*padding-left:220px;*/
+            /*padding-top: 20px;*/
+            /*padding-right : 20px;*/
+            /*padding-bottom: 20px;*/
+            /*padding:20px;*/
+            /*왜 안되는걸까요...*/
+            padding-top: 20px;
+            padding-left:250px;
+            padding-right:20px;
+        }
+        nav{
+            width:200px;
+            background: #eee;
+            border-right:1px solid #ddd;
+            /*position:fixed;*/
+            height:100%
+        }
+        nav ul {
+
+        }
+        nav ul li {
+
+        }
+        nav ul li a {
+            height:30px;
+            line-height: 20px;
+            display: block;
+            padding: 15px;
+            font-size:15px;
+            color:#555;
+            /*float: left;*/
+        }
+        nav ul li a:hover{ background-color:yellowgreen; color:white;}
+    </style>
 </head>
 <body>
-<header>
-    <h1>IntelliJ IDEA 학생 라이센스 받는 방법 & 설치방법</h1>
-    <h2>JetBrains 학생 인증 방법</h2>
-    <hr color = "#0fbcf9">
-</header>
+<nav>
+    <h1>모르겠음</h1>
+    <ul class="menu">
+        <li><a href="license.html">license</a></li>
+        <li><a href="shortcut_keys-1.html">shortcut</a></li>
+        <li><a href = "#title">title</a></li>
+        <li><a href = "0">JetBrain 사이트</a></li>
+        <li><a href = "1">GitHub Student Developer Pack 링크 접속</a></li>
+        <li><a href = "2">Get your pack 버튼 클릭</a></li>
+        <li><a href = "3">Add an email address 버튼 클릭</a></li>
+        <li><a href = "4">Add an email address 버튼 클릭</a></li>
+        <li><a href = "5">학교 이메일 추가</a></li>
+        <li><a href = "6">학교 이메일 확인</a></li>
+        <li><a href = "7">github 사용 플랜 입력하기</a></li>
+        <li><a href = "8">학생인증 확인하기</a></li>
+        <!--                <li><a href="else.html">else</a></li>-->
+    </ul>
+</nav>
 <section>
-<!--<br>-->
-<ol>
-<li><h3>사이트 접속!</h3></li>
-    <a href = "https://www.jetbrains.com/community/education/#students" target = "_blank"
-     width = "200" height = "100" align = "center">
-        <img src = "./imgs/0.png" alt = "👉 JetBrains 학생 라이센스 인증 사이트">
+    <article id = "title">
+        <h1>IntelliJ IDEA 학생 라이센스 받는 방법 & 설치방법</h1>
+        <h2>JetBrains 학생 인증 방법</h2>
+        <hr>
+    </article>
+    <ol>
+        <article id = "0">
+            <li><h3>사이트 접속!</h3></li>
+            <a href="https://www.jetbrains.com/community/education/#students" target="_blank"
+               width="200" height="100" align="center">
+                <img src="./imgs/0.png" alt="JetBrains 학생 라이센스 인증 사이트">
+                <br>
+                JetBrains 학생 라이센스 인증 사이트
+            </a>
+            <p>위 사이트에 접속합니다.</p>
+        </article>
+        <article id = "1">
+            <li><h3>GitHub Student Developer Pack 링크 접속</h3></li>
+            <img src="./imgs/1.png">
+            <p>무료 교육 라이센스를 받을 수 있는 여러 옵션들이 나와있습니다.</p>
+            <p>저는 github로 인증하는 방법을 설명하겠습니다.</p>
+            <p>GitHub Student Developer Pack 링크를 클릭합니다.</p>
+        </article>
+        <article id = "2">
+            <li><h3>Get your pack 버튼 클릭</h3></li>
+            <img src="./imgs/2.png">
+            <p>만약 로그인 창이 뜨면 로그인 하면 됩니다.</p>
+        </article>
+        <article id = "3">
+            <li><h3>Get student benefits 버튼 클릭</h3></li>
+            <img src="./imgs/4.png">
+            <p>학생 인증하면 받을 수 있는 혜택들이 나와있습니다.</p>
+            <p>Get student benefits 버튼을 클릭해 github에서 인증을 시작합니다.</p>
+        </article>
+        <article id = "4">
+            <li><h3>Add an email address 버튼 클릭</h3></li>
+            <img src="./imgs/4.png">
+            <p>학교 이메일 계정을 추가할 것입니다.</p>
+        </article>
+        <article id = "5">
+            <li><h3>학교 이메일 추가</h3></li>
+            <img src="./imgs/5.png">
+            <p>Email address칸에 학교 이메일을 입력합니다.(이메일 형식은 ...ac.kr 입니다.)</p>
+            <p>학교 이메일 주소를 입력하고 Add를 클릭합니다.</p>
+
+        </article>
+        <article id = "6">
+            <li><h3>학교 이메일 확인</h3></li>
+            <img src="./imgs/6.png">
+            <p>메일이 오면 <b>Verify email address</b>를 클릭하고 github에 다시 돌아갑니다.</p>
+
+        </article>
+        <article id = "7">
+            <li><h3>github 사용 플랜 입력하기</h3></li>
+            <img src="./imgs/7.png">
+            <p><b>How do you plan to use Github?</b> 칸에 github 사용 플랜 입력합니다.</p>
+            <p>Submit your information 버튼을 클릭해서 제출하면 학생 인증이 완료됩니다.</p>
+        </article>
+        <article id = "8">
+            <li><h3>끝!</h3></li>
+            <img src="./imgs/8.png">
+            <p>학교 이메일 인증이 완료되면 이렇게 학교 인증 뱃지를 얻게됩니다.</p>
+        </article>
+        <!--        <br>-->
+<!--        <br>-->
+<!--        <br>-->
+<!--        <br>-->
+<!--        <br>-->
+<!--        <br>-->
+<!--        <br>-->
+<!--        <br>-->
+    </ol>
+
+    <h2>Intellij IDEA 설치방법</h2>
+    <hr color="#0fbcf9">
+    <br>
+    <ol>
+        <a href="https://www.jetbrains.com/idea/" target="_blank"
+           width="200" height="100" align="center">
+            <img src="./imgs/9.png" alt="IntelliJ IDEA 다운로드 사이트">
+            <br>
+            IntelliJ IDEA 다운로드 사이트
+        </a>
+<!--        <br><br><br><br><br><br><br>-->
+        <img src="./imgs/a1.png">
+        <p>위 사이트에 접속하고 download 버튼을 클릭합니다.</p>
         <br>
-        JetBrains 학생 라이센스 인증 사이트l;;;';llld
-    </a>
-    <p>위 사이트에 접속합니다.</p>
-<br>
-    <li><h3>GitHub Student Developer Pack 링크 접속</h3></li>
-<img src = "./imgs/1.png">
-    <p>무료 교육 라이센스를 받을 수 있는 여러 옵션들이 나와있습니다.</p>
-    <p>저는 github로 인증하는 방법을 설명하겠습니다.</p>
-    <p>GitHub Student Developer Pack 링크를 클릭합니다.</p>
-<br>
-    <li><h3>Get your pack 버튼 클릭</h3></li>
-<img src = "./imgs/2.png">
-<p>만약 로그인 창이 뜨면 로그인 하면 됩니다.</p>
-<br>
-    <li><h3>Get student benefits 버튼 클릭</h3></li>
-<img src = "./imgs/4.png">
-<p>학생 인증하면 받을 수 있는 혜택들이 나와있습니다.</p>
-<p>Get student benefits 버튼을 클릭해 github에서 인증을 시작합니다.</p>
-    <br>
-    <li><h3>Add an email address 버튼 클릭</h3></li>
-<img src = "./imgs/4.png">
-<p>학교 이메일 계정을 추가할 것입니다.</p>
-    <br>
-    <li><h3>학교 이메일 추가</h3></li>
-<img src = "./imgs/5.png">
-<p>Email address칸에 학교 이메일을 입력합니다.(이메일 형식은 ...ac.kr 입니다.)</p>
-    <p>학교 이메일 주소를 입력하고 Add를 클릭합니다.</p>
-    <br>
-    <li><h3>학교 이메일 확인</h3></li>
-<img src = "./imgs/6.png">
-    <p>메일이 오면 <b>Verify email address</b>를 클릭하고 github에 다시 돌아갑니다.</p>
-    <br>
-    <li><h3>github 사용 플랜 입력하기</h3></li>
-<img src = "./imgs/7.png">
-    <p><b>How do you plan to use Github?</b> 칸에 github 사용 플랜 입력합니다.</p>
-    <p>Submit your information 버튼을 클릭해서 제출하면 학생 인증이 완료됩니다.</p>
-    <br>
-    <li><h3>끝!</h3></li>
-    <img src = "./imgs/8.png">
-<p>학교 이메일 인증이 완료되면 이렇게 학교 인증 뱃지를 얻게됩니다.</p>
-</ol>
-<h2>Intellij IDEA 설치방법</h2>
-<hr color = "#0fbcf9">
-<br>
-<ol>
-    <a href = "https://www.jetbrains.com/idea/" target = "_blank"
-       width = "200" height = "100" align = "center">
-        <img src = "./imgs/9.png" alt = "👉 IntelliJ IDEA 다운로드 사이트">
+        <li><h3>버전 선택</h3></li>
+        <img src="./imgs/a2.png">
+        <p>window 등 각자 환경에 맞는 ultimate 버전을 download 합니다.</p>
         <br>
-        👉 IntelliJ IDEA 다운로드 사이트
-    </a>
-    <br><br><br><br><br><br><br>
-    <img src = "./imgs/a1.png">
-    <p>위 사이트에 접속하고 download 버튼을 클릭합니다.</p>
-    <br>
-    <li><h3>버전 선택</h3></li>
-    <img src = "./imgs/a2.png">
-    <p>window 등 각자 환경에 맞는 ultimate 버전을 download 합니다.</p>
-    <br>
-    <li><h3>설치 환경</h3></li>
-    <img src = "./imgs/a3.png">
-    <p>download 한 후 exe파일을 열면 위와 같은 창이 열립니다.</p>
-    <p>next를 누르세요.</p>
-    <br>
-    <img src = "./imgs/a4.png">
-    <p>Intellij IDEA 다운로드 경로를 선택합니다.</p>
-    <p>next를 누르세요.</p>
-    <br>
-    <img src = "./imgs/a5.png">
-    <p>위와 같이 체크하고 next를 누릅니다.</p>
-    <br>
-    <img src = "./imgs/a6.png">
-    <p>JetBrain으로 설정하고 Install 클릭</p>
-    <br>
-    <img src = "./imgs/a7.png">
-    <p>finish를 클릭하고 이후 약관 동의와 테마를 선택하면 됩니다.</p>
-    <br>
-    <li><h3>학생 인증</h3></li>
-    <img src = "./imgs/a8.png" width = "800" height = "500">
-    <p>github 계정 정보를 입력하면 인증 완료가 됩니다.</p>
+        <li><h3>설치 환경</h3></li>
+        <img src="./imgs/a3.png">
+        <p>download 한 후 exe파일을 열면 위와 같은 창이 열립니다.</p>
+        <p>next를 누르세요.</p>
+        <br>
+        <img src="./imgs/a4.png">
+        <p>Intellij IDEA 다운로드 경로를 선택합니다.</p>
+        <p>next를 누르세요.</p>
+        <br>
+        <img src="./imgs/a5.png">
+        <p>위와 같이 체크하고 next를 누릅니다.</p>
+        <br>
+        <img src="./imgs/a6.png">
+        <p>JetBrain으로 설정하고 Install 클릭</p>
+        <br>
+        <img src="./imgs/a7.png">
+        <p>finish를 클릭하고 이후 약관 동의와 테마를 선택하면 됩니다.</p>
+        <br>
+        <li><h3>학생 인증</h3></li>
+        <img src="./imgs/a8.png" width="800" height="500">
+        <p>github 계정 정보를 입력하면 인증 완료가 됩니다.</p>
+    </ol>
 </section>
-</ol>
 </body>
 </html>

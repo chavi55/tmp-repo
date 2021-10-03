@@ -18,52 +18,43 @@
             background-color: bisque;
             /*height: 500px;*/
         }
-        .clearfix:after {
-            content: "";
-            display: table;
-            table-layout: fixed;
-            clear: both;
-        }
-        section, aside {
-            float: left;
-            height: 100%;
-        }
-        section {
-            border: 1px solid #00c73c;
-        }
-        aside {
-            border: 1px solid blueviolet;
-        }
         footer {
-            background-color: aqua;
+            /*background-color: aqua;*/
             height: 100px;
+        }
+        nav{
+            width:200px;
+            background: #eee;
+            border-right:1px solid #ddd;
+            position:fixed;
+            height:100%
         }
         nav ul {
 
         }
-        nav ul li {
+        nav ul li {}
+        nav ul li a {
+            height:30px;
+            line-height: 30px;
+            display: block;
             padding: 10px;
-            list-style: none;
-            float: left;
+            font-size:15px;
+            color:#555;
+            /*float: left;*/
         }
+        nav ul li a:hover{ background-color:yellowgreen; color:white;}
     </style>
 </head>
 <body>
 <div class="wrapper">
-    <header>
-        header
         <nav>
-            <ul class="clearfix">
+            <h1>모르겠음</h1>
+            <ul class="menu">
                 <li><a href="license.html">license</a></li>
                 <li><a href="shortcut_keys-1.html">shortcut</a></li>
 <!--                <li><a href="else.html">else</a></li>-->
             </ul>
         </nav>
-    </header>
-    <main class="clearfix">
-        <section>section</section>
-        <aside>aside</aside>
-    </main>
     <footer>footer</footer>
 </div>
 </body>
