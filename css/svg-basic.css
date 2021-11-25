@@ -1,0 +1,21 @@
+@keyframe stroke{
+    from{
+        stroke-dashoffset : 0;
+    }
+    to{
+        stroke-dashoffset: 100;
+    }
+}
+.wrapper svg{
+    background-color: var(--color1);
+}
+.wrapper svg circle {
+    animation : circle 1s linear infinite;
+    transform-origin: center;
+    transform-box : fill-box;
+}
+@keyframes circle {
+    to{
+        transform: rotate(1turn);
+    }
+}
