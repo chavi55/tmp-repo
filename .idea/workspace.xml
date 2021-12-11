@@ -5,13 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4df74c93-0237-43e7-9f30-0eefbe5caf6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/htmls/heart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmls/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmls/svg-basic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmls/svg-font.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hello_Dialog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/display.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/license.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shortcut_keys-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg-basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg-font.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_design_trend.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heart.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmls" beforeDir="false" afterPath="$PROJECT_DIR$/htmls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/value" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/with" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +39,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/htmls" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1yz9ohhkWrIsVxUHjT9sCjjataA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -51,25 +63,26 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\hw2021" />
       <recent name="C:\Users\user\IdeaProjects\hw2021\css" />
       <recent name="C:\Users\user\IdeaProjects\hw2021\htmls" />
       <recent name="C:\Users\user\IdeaProjects\hw2021\htmls\imgs" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.heart.html (1)">
-    <configuration name="Form.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/hw2021/demo/htmls/Form.html" useBuiltInWebServerPort="true">
+    <configuration name="Form.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/hw2021/demo/Form.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Table.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/hw2021/demo/htmls/Table.html" useBuiltInWebServerPort="true">
+    <configuration name="Table.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/hw2021/demo/Table.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="heart.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/hw2021/demo/heart.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="heart.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/hw2021/demo/htmls/heart.html" useBuiltInWebServerPort="true">
+    <configuration name="heart.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/hw2021/demo/heart.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="svg-font.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/hw2021/demo/htmls/svg-font.html" useBuiltInWebServerPort="true">
+    <configuration name="svg-font.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/hw2021/demo/svg-font.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -102,7 +115,7 @@
       <workItem from="1634555560059" duration="8680000" />
       <workItem from="1637543067430" duration="2047000" />
       <workItem from="1637824745323" duration="6444000" />
-      <workItem from="1638248658316" duration="7642000" />
+      <workItem from="1638248658316" duration="8075000" />
     </task>
     <task id="LOCAL-00001" summary="1003">
       <created>1633245678288</created>
