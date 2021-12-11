@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4df74c93-0237-43e7-9f30-0eefbe5caf6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hello_Dialog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Table.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/display.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/license.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shortcut_keys-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/svg-basic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/svg-font.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_design_trend.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/value" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/with" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +97,7 @@
       <workItem from="1634555560059" duration="8680000" />
       <workItem from="1637543067430" duration="2047000" />
       <workItem from="1637824745323" duration="6444000" />
-      <workItem from="1638248658316" duration="8075000" />
+      <workItem from="1638248658316" duration="8195000" />
     </task>
     <task id="LOCAL-00001" summary="1003">
       <created>1633245678288</created>
