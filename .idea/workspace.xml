@@ -6,13 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="4df74c93-0237-43e7-9f30-0eefbe5caf6e" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/htmls/heart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmls/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/htmls/svg-basic.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/htmls/svg-font.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/htmls" beforeDir="false" afterPath="$PROJECT_DIR$/htmls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg-basic.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg-font.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -57,7 +56,7 @@
       <recent name="C:\Users\user\IdeaProjects\hw2021\htmls\imgs" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.svg-font.html">
+  <component name="RunManager" selected="JavaScript Debug.heart.html">
     <configuration name="Form.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/hw2021/demo/htmls/Form.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -82,8 +81,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.svg-font.html" />
         <item itemvalue="JavaScript Debug.heart.html" />
+        <item itemvalue="JavaScript Debug.svg-font.html" />
         <item itemvalue="JavaScript Debug.Form.html" />
         <item itemvalue="JavaScript Debug.Table.html" />
         <item itemvalue="JavaScript Debug.display.html" />
@@ -103,7 +102,7 @@
       <workItem from="1634555560059" duration="8680000" />
       <workItem from="1637543067430" duration="2047000" />
       <workItem from="1637824745323" duration="6444000" />
-      <workItem from="1638248658316" duration="3422000" />
+      <workItem from="1638248658316" duration="6895000" />
     </task>
     <task id="LOCAL-00001" summary="1003">
       <created>1633245678288</created>
