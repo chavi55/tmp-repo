@@ -8,7 +8,11 @@
       <change afterPath="$PROJECT_DIR$/htmls/heart.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/htmls/svg-basic.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/htmls/svg-font.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/htmls" beforeDir="false" afterPath="$PROJECT_DIR$/htmls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg-basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg-font.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +103,7 @@
       <workItem from="1634555560059" duration="8680000" />
       <workItem from="1637543067430" duration="2047000" />
       <workItem from="1637824745323" duration="6444000" />
-      <workItem from="1638248658316" duration="2081000" />
+      <workItem from="1638248658316" duration="3422000" />
     </task>
     <task id="LOCAL-00001" summary="1003">
       <created>1633245678288</created>
