@@ -1,7 +1,50 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <meta charset = "UTF-8"/>
+    <style>
+        .show_title{
+            animation: ani1_right 0.64s
+            cubic-bezier(0.0, 0.0, 0.2, 1)
+            forwards;
+        }
+        .show_title .main_title{
+            opacity: 1;
+            transform: translateY(0px);
+        }
+        @media (max-width : 600px) {
+            .show_title .main_title{
+                font-size: 18px;
+            }
+        }
+        #section1 .show_title .main_title{
+            opacity: 0;
+            transform: translateY(100%);
+            transition: all 0.8s 0.5s ease;
+        }
+        body{
+            font-family: '-윤고딕360', sans-serif;
+        }
+    </style>
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<section id = "animation">
+    <section id = "section1">
+        <div class = "container">
+            <div class = "row">
+                <div class = "sec1">
+                    <div class="show_title">
+                        <p class = "main_title">애니메이션</p>
+                        <div class = "s1_title">heart</div>
+                    </div>
+                    <div class="revealer"></div>
+                    <div class = 'ani_heart'>
+                        <iframe src = "svg-font.html" style="opacity: 1;"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
 </body>
 </html>
